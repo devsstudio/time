@@ -1,0 +1,30 @@
+{
+  "name": "@devs-studio/time",
+  "version": "1.0.0",
+  "description": "Funciones relacionadas con time",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npx tsc",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JeanPaper@bitbucket.org/JeanPaper/devsstudio-time.git"
+  },
+  "keywords": [
+    "time",
+    "timestamp",
+    "date"
+  ],
+  "author": "Devs Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/JeanPaper/devsstudio-time/issues"
+  },
+  "homepage": "https://bitbucket.org/JeanPaper/devsstudio-time#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "nano-time": "^1.0.0"
+  }
+}
