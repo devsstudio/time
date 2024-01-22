@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://JeanPaper@bitbucket.org/JeanPaper/devsstudio-time.git"
+    "url": "https://github.com/devsstudio/time.git"
   },
   "keywords": [
     "time",
@@ -20,9 +20,9 @@
   "author": "Devs Studio",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/JeanPaper/devsstudio-time/issues"
+    "url": "https://github.com/devsstudio/time/issues"
   },
-  "homepage": "https://bitbucket.org/JeanPaper/devsstudio-time#readme",
+  "homepage": "https://github.com/devsstudio/time",
   "dependencies": {
     "moment": "^2.29.4",
     "nano-time": "^1.0.0"
