@@ -1,6 +1,6 @@
 {
   "name": "@devs-studio/time",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Funciones relacionadas con time",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,11 +25,11 @@
   "homepage": "https://github.com/devsstudio/time",
   "dependencies": {
     "big.js": "^6.2.2",
-    "moment": "^2.29.4",
-    "typescript": "^5.7.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@types/big.js": "^6.2.2",
-    "@types/node": "^22.9.3"
+    "@types/node": "^22.9.3",
+    "typescript": "^5.8.2"
   }
 }
